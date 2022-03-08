@@ -1,5 +1,5 @@
 {
-  "name": "configuration_project",
+  "name": "configuration_project_jordimr",
   "version": "1.0.0",
   "description": "https://www.digitalocean.com/community/tutorials/typescript-new-project\r npm i typescript --save-dev\r npx tsc --init",
   "main": "index.js",
